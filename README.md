@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Sahil 👋
+
+🎓 Computer Science Student  
+💻 Interested in Backend & System Design  
+🚀 Exploring Java, Python & Distributed Systems  
+
+---
+
+## 🔥 Current Focus
+- Learning System Design
+- Improving Java backend skills
+- Exploring databases & caching
+
+---
+
+## 🛠 Tech Stack
+- Java
+- Python
+- Git
+- MySQL
