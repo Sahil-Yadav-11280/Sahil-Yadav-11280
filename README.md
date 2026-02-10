@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Sahil 👋
+![GitHUb](https://img.shields.io/badge/github-repo-blue?logo=github)
+![msg](https://img.shields.io/badge/Backend%20-8A2BE2)
+![txt](https://img.shields.io/badge/System-Design-blue)
 
 🎓 Computer Science Student  
 💻 Interested in Backend & System Design  
@@ -39,3 +42,8 @@ Here are some ideas to get you started:
 - Python
 - Git
 - MySQL
+
+## 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Yadav-11280&show_icons=true&theme=tokyonight)
+
