@@ -45,5 +45,12 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Yadav-11280&show_icons=true&theme=tokyonight)
+![Sahil's GitHub stats](https://streak-stats.demolab.com?user=Sahil-Yadav-11280&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Yadav-11280&color=blue)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Yadav-11280&theme=tokyo-night)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;System+Design+Learner;Building+Scalable+Systems)
+
+
 
