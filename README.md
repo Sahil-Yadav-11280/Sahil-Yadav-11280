@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 🚀 Exploring Java, Python & Distributed Systems 
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000F?style=plastic&logo=postgressql&logoColor=white)
-
-
 ---
 
 ## 🔥 Current Focus
@@ -38,6 +33,11 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000F?style=plastic&logo=postgressql&logoColor=white)
+
 - Java
 - Python
 - Git
